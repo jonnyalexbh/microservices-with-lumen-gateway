@@ -5,3 +5,4 @@ Homestead.yaml
 .env
 database/database.sqlite
 composer.lock
+storage/*.key
